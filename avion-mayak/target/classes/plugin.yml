@@ -1,0 +1,11 @@
+name: avion-mayak
+version: '1.0-SNAPSHOT'
+main: pipka.avionMayak.AvionMayak
+api-version: '1.21'
+commands:
+  beaconray:
+    permission: plugin.role
+    description: луч маяка без маяка.
+  beaconrayFiolet:
+    permission: plugin-role
+    description: луч маяка без маяка фиолетовый.
